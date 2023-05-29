@@ -23,6 +23,7 @@
 }
 
 .post-markdown-container a {
+    word-wrap:break-word;
     color: #0493d4;
     text-decoration: underline;
 }
