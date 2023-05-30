@@ -22,6 +22,7 @@
     font-family: var(--fonte-secundaria);
     padding: 0 7.5rem;
     font-size: 4rem;
+    line-height: normal;
     display: flex;
     align-items: center;
 }

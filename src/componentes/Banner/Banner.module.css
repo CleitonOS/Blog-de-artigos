@@ -72,16 +72,16 @@
 
 @media (max-width: 744px) {
     .banner {
-        padding: 2rem 1rem;
+        padding: 2rem 1rem 3rem 1rem;
         display: block;
     }
 
     .titulo {
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
 
     .paragrafo {
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
 
     .imagens {
