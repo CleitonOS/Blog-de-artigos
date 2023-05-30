@@ -1,3 +1,7 @@
+# Sobre o projeto
+
+Através desse projeto pude desenvolver uma SPA (Single Page Application), com o framework React Router DOM, utilizando rotas aninhadas, rotas dinâmicas, fazendo uso dos hooks useLocation e useParams. Além disso desenvolvi todo o projeto de forma que os componentes fossem o máximo possível reaproveitáveis, assim reaproveitando alguns componentes em outras páginas para "economizar" linhas de código e tempo.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
